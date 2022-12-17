@@ -1,0 +1,9 @@
+db.sqlite3
+.idea
+static
+.env
+venv
+.vscode
+pycache/
+*.py[cod]
+*.so
